@@ -1,4 +1,4 @@
-import { ABOUT, EDUCATION, PROJECTS, EXPERIENCE, SKILLS, CONTACT } from './js/constants.js';
+import { ABOUT, EDUCATION, PROJECTS, EXPERIENCE, SKILLS, CONTACT } from './constants.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     // Hide Loader
