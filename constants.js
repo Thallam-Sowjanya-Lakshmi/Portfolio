@@ -35,6 +35,12 @@ export const PROJECTS = [
         tech: ["HTML", "CSS", "JavaScript", "Java", "MySQL"],
         image: "assets/images/restaurant.jpg",
         github: "https://github.com/Thallam-Sowjanya-Lakshmi/project_restaurant"
+    },
+    {
+        title: "Online_Student_Management_System",
+        description: "A full-stack web application for managing student records, allowing administrators to perform CRUD operations on student data with a responsive user interface.",
+        tech: ["HTML", "CSS", "Java", "JavaScript","Advance Java","MySQL"],
+        github: "https://github.com/Thallam-Sowjanya-Lakshmi/Online_Student_Management_System"
     }
 ];
 
@@ -99,3 +105,4 @@ export const CONTACT = {
     github: "https://github.com/Thallam-Sowjanya-Lakshmi",
     linkedin: "https://www.linkedin.com/in/thallam-sowjanya-lakshmi"
 };
+
